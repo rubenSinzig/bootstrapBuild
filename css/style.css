@@ -35,3 +35,9 @@ hr {
 h3 {
     margin: 0;
 }
+.main-description {
+    margin: 0 5rem;
+}
+.btn {
+    margin-top: 1rem;
+}
