@@ -26,3 +26,12 @@ h2 {
 hr {
     margin: 4rem;
 }
+.description {
+    padding: 0 3rem;
+}
+.description p {
+    padding-top: 2rem;
+}
+h3 {
+    margin: 0;
+}
